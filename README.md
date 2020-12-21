@@ -6,4 +6,4 @@ Given the holidays are around the corner, it seemed most appropriate to publish 
 
 
 
-This is my final for Geog 671. The University of Humboldt has no affiliation with this map, not is a sponser of it. This map is a pure simulation.
+Disclaimer: __This is my final for Geog 671. The University of Humboldt has no affiliation with this map, not is a sponser of it. This map is a pure simulation.__
